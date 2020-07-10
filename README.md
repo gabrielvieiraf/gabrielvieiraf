@@ -9,7 +9,7 @@
 <p>Sou o Gabriel Vieira Flores, atualmente trabalho para <strong>Sensorweb</strong> prestando serviços para hemocentros e hospitais do Brasil inteiro! 👨‍⚕️</p>
 <p>👨🏻‍🎓 Sou formado em eletrônica pelo <strong>IFSC de Florianópolis</strong>, e gosto de dar meus pitacos no mundo da programação 👨🏻‍💻</p>
 <p>Embora não tenha formação na área, em meus repositórios tento deixar um pouco da minha experiência diária, de forma didática e descontraída, igual esse README aqui!👌🏼</p>
-<p>Vem dar uma conferida no meu trabalho, acredito que você vai adorar conhecer um pouco mais o meu repositório, qualquer coisa é só me chmar pelo LinkedIn, <strong>combinado?!</strong></p>
+<p>Vem dar uma conferida no meu trabalho, acredito que você vai adorar conhecer um pouco mais os meus repositórios, qualquer coisa é só me chamar pelo LinkedIn, <strong>combinado?!</strong></p>
 
 <!--
 **gabrielvieiraf/gabrielvieiraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
