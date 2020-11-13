@@ -9,7 +9,7 @@
 
 <p>Sou o Gabriel Vieira Flores, atualmente trabalho para <strong>Sensorweb</strong> prestando serviços para hospitais do Brasil inteiro!</p>
 <p><img src="https://media.giphy.com/media/VhVsFxIv0hva3Hi4pc/giphy.gif" height="40" width="30">Sou formado em eletrônica pelo <strong>IFSC de Florianópolis</strong>, e gosto de dar meus pitacos no mundo da programação <img src="https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif" height="100"></p>
-<p>Embora não tenha formação na área, em meus repositórios tento deixar um pouco da minha experiência diária, de forma didática e descontraída, igual esse README aqui!👌🏼</p>
+<p>Em meus repositórios tento deixar um pouco da minha experiência diária, de forma didática e descontraída, igual esse README aqui!👌🏼</p>
 <p>Vem dar uma conferida no meu trabalho, acredito que você vai adorar conhecer um pouco mais os meus repositórios, qualquer coisa é só me chamar pelo LinkedIn, <strong>combinado?!</strong></p>
 
 <!--
