@@ -12,6 +12,8 @@
 <p>Aqui você encontra desde listas de exercícios elaboradas por mim até meus projetinhos 😁</p>
 <p>Vem dar uma conferida no meu trabalho, acredito que você vai adorar conhecer um pouco mais os meus repositórios, qualquer coisa é só me chamar pelo LinkedIn, <strong>combinado?!</strong></p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielvieiraf&hide=issues,contribs&theme=gruvbox&repo=github-readme-stats" />
+
 <!--
 **gabrielvieiraf/gabrielvieiraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
