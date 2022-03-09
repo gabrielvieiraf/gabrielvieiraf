@@ -7,7 +7,7 @@
   
 ### E aí galera, beleza? 😁
 
-<p>Sou o Gabriel Vieira Flores, atualmente sou CEO e professor de programação na MoreDeve!</p>
+<p>Sou o Gabriel Vieira Flores, atualmente sou CEO e mentor de programação na MoreDeve!</p>
 <p>Em meus repositórios tento deixar um pouco da minha experiência diária para ajudar você desenvolvedor, de forma didática e descontraída, igual esse README aqui!👌🏼</p>
 <p>Aqui você encontra desde listas de exercícios elaboradas por mim até meus projetinhos 😁</p>
 <p>Vem dar uma conferida no meu trabalho, acredito que você vai adorar conhecer um pouco mais os meus repositórios, qualquer coisa é só me chamar pelo LinkedIn, <strong>combinado?!</strong></p>
