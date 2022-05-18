@@ -14,7 +14,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielvieiraf&&theme=midnight-purple&show_icons=true&custom_title=Um%20pouquinho%20do%20que%20fiz%20por%20aqui" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieiraf&theme=midnight-purple&show_icons=true&custom_title=Linguagens%20Utilizadas%20por%20aqui&count_private=true" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gabrielvieiraf&theme=midnight-purple&show_icons=true&custom_title=Linguagens%20Utilizadas%20por%20aqui&count_private=true" />
 
 <!--
 **gabrielvieiraf/gabrielvieiraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
