@@ -16,6 +16,11 @@
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=gabrielvieiraf&theme=midnight-purple&show_icons=true&custom_title=Linguagens%20Utilizadas%20por%20aqui&count_private=true" />
 
+
+### Meu Discord
+
+<img align="center" src="https://lanyard.cnrad.dev/api/831583136029736970?idleMessage=Provavelmente%20tomando%20um%20caf%C3%A9" />
+
 <!--
 **gabrielvieiraf/gabrielvieiraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
